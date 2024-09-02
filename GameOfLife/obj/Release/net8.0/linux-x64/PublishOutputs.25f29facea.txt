@@ -1,0 +1,3 @@
+E:\Git\GameOfLifeMultitreaded\GameOfLife\bin\Release\net8.0\linux-x64\publish\GameOfLife.pdb
+E:\Git\GameOfLifeMultitreaded\GameOfLife\bin\Release\net8.0\linux-x64\publish\testhost.exe
+E:\Git\GameOfLifeMultitreaded\GameOfLife\bin\Release\net8.0\linux-x64\publish\GameOfLife
